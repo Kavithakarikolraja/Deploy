@@ -1,3 +1,8 @@
+freecodecamp
+Anthropic academy
+
+
+
 1   create server mern dir
 2   create server dir in it
  -> npm init -y
@@ -228,3 +233,14 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     <RouterProvider router={router} />
   </React.StrictMode>
 );
+
+create components inside source 
+  - files  Navbar.jsx RecordList.js ModifyRecord.jsx
+
+  paste code from : https://www.mongodb.com/resources/languages/mern-stack-tutorial
+
+
+  -replace app.jsx
+
+  -> replace ModifyRecord,RecordList  
+  from  - https://github.com/mongodb-developer/mern-stack-example/tree/main/mern/client/src/components
